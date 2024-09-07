@@ -1,0 +1,11 @@
+* {
+  /* Không làm thay đổi tỉ lệ kích thước định sẵn */
+  box-sizing: border-box;
+}
+html {
+    /* Chuyển đổi 1 rem = 10px */
+  font-size: 62.5%;
+}
+h1{
+    font-size: 1.6rem;
+}
